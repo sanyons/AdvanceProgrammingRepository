@@ -1,0 +1,25 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Akinator";
+}
+
+<h2>Juego de Adivinanza de Frutas</h2>
+
+@if (ViewBag.Question != null)
+{
+    <form asp-action="AskQuestion" method="post">
+        <p>@ViewBag.Question</p>
+        <input type="text" name="userInput" required />
+        <button type="submit">Enviar</button>
+    </form>
+    <form asp-action="Reset" method="post">
+        <button type="submit">Reiniciar Juego</button>
+    </form>
+}
+
+<div>
+    @foreach (var entry in ViewBag.History)
+    {
+        <p>@entry</p>
+    }
+</div>

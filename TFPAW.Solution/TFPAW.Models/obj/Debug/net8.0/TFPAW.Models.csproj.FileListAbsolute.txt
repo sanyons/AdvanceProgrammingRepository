@@ -1,0 +1,13 @@
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\bin\Debug\net8.0\TFPAW.Models.deps.json
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.csproj.AssemblyReference.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.AssemblyInfoInputs.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.AssemblyInfo.cs
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.csproj.CoreCompileInputs.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.sourcelink.json
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\refint\TFPAW.Models.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Models\obj\Debug\net8.0\ref\TFPAW.Models.dll

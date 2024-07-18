@@ -49,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -117,6 +121,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -181,6 +191,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

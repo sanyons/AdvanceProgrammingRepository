@@ -1,0 +1,16 @@
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.csproj.AssemblyReference.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.AssemblyInfoInputs.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.AssemblyInfo.cs
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.csproj.CoreCompileInputs.cache
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.sourcelink.json
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\bin\Debug\net8.0\TFPAW.Services.deps.json
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\bin\Debug\net8.0\TFPAW.Services.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\bin\Debug\net8.0\TFPAW.Services.pdb
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.csproj.CopyComplete
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\refint\TFPAW.Services.dll
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\TFPAW.Services.pdb
+C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Services\obj\Debug\net8.0\ref\TFPAW.Services.dll

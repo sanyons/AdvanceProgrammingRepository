@@ -1,0 +1,13 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Resultado";
+}
+
+<h2>Juego de Adivinanza de Frutas</h2>
+
+<div>
+    <p>@ViewBag.History.LastOrDefault()</p>
+    <form asp-action="Reset" method="post">
+        <button type="submit">Jugar de Nuevo</button>
+    </form>
+</div>

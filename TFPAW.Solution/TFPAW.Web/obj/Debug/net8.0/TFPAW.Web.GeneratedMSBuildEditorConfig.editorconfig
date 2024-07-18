@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jdani\source\repos\AdvanceProgrammingRepository\TFPAW.Solution\TFPAW.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jdani/source/repos/AdvanceProgrammingRepository/TFPAW.Solution/TFPAW.Web/Views/Akinator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWtpbmF0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jdani/source/repos/AdvanceProgrammingRepository/TFPAW.Solution/TFPAW.Web/Views/Akinator/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWtpbmF0b3JcUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jdani/source/repos/AdvanceProgrammingRepository/TFPAW.Solution/TFPAW.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
