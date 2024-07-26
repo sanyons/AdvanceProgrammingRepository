@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TFPAW.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\jdani\\source\\repos\\AdvanceProgrammingRepository\\TFPAW.Solution\\TFPAW.Web\\wwwroot\\Images\\akinator.png",
+      "PackagePath": "staticwebassets\\Images\\akinator.png"
+    },
+    {
       "Id": "C:\\Users\\jdani\\source\\repos\\AdvanceProgrammingRepository\\TFPAW.Solution\\TFPAW.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

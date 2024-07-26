@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HLTHw+eKvGuTHy3vUlggrWi6kxcnFqkrkpnr5hd1bjY=",
+  "Hash": "2pZ2rQG7tHqylPJ3E63dE7kVGJ5B3R68TQBFo8KThtk=",
   "Source": "TFPAW.Web",
   "BasePath": "_content/TFPAW.Web",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jdani\\source\\repos\\AdvanceProgrammingRepository\\TFPAW.Solution\\TFPAW.Web\\wwwroot\\Images\\akinator.png",
+      "SourceId": "TFPAW.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jdani\\source\\repos\\AdvanceProgrammingRepository\\TFPAW.Solution\\TFPAW.Web\\wwwroot\\",
+      "BasePath": "_content/TFPAW.Web",
+      "RelativePath": "Images/akinator.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\akinator.png"
     },
     {
       "Identity": "C:\\Users\\jdani\\source\\repos\\AdvanceProgrammingRepository\\TFPAW.Solution\\TFPAW.Web\\wwwroot\\js\\site.js",

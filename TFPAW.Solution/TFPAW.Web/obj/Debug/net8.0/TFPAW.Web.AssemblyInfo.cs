@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TFPAW.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7550a545cb22026106bbfe03b5b9c53e1817ffc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15c1bfe60df96d18fb16cd7c74ea8ed1ecb7b78")]
 [assembly: System.Reflection.AssemblyProductAttribute("TFPAW.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TFPAW.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

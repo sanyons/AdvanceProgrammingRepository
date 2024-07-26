@@ -1,25 +1,32 @@
-﻿@model string
-@{
-    ViewData["Title"] = "Akinator";
-}
-
-<h2>Juego de Adivinanza de Frutas</h2>
-
-@if (ViewBag.Question != null)
-{
-    <form asp-action="AskQuestion" method="post">
-        <p>@ViewBag.Question</p>
-        <input type="text" name="userInput" required />
-        <button type="submit">Enviar</button>
-    </form>
-    <form asp-action="Reset" method="post">
-        <button type="submit">Reiniciar Juego</button>
-    </form>
-}
-
-<div>
-    @foreach (var entry in ViewBag.History)
-    {
-        <p>@entry</p>
-    }
-</div>
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akinator Simulation</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Akinator Simulation</h1>
+        </header>
+        <main>
+            <div id="question-container">
+                <p id="question">Loading...</p>
+            </div>
+            <div id="answers">
+                <button onclick="selectAnswer('yes')">Yes</button>
+                <button onclick="selectAnswer('no')">No</button>
+                <button onclick="selectAnswer('idk')">I Don't Know</button>
+                <button onclick="selectAnswer('probably')">Probably</button>
+                <button onclick="selectAnswer('probably not')">Probably Not</button>
+            </div>
+        </main>
+        <footer>
+            <p>&copy; 2024 Akinator Simulation</p>
+        </footer>
+    </div>
+    <script src="~/js/scripts.js"></script>
+</body>
+</html>
